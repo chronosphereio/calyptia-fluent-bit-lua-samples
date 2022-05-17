@@ -1,9 +1,9 @@
--- This example uses xmlua (high level lua bindings to libxml2 using luajit FFI)
--- to parse streaming xml. Since it uses libxml2 push/sax parser, it has low
--- memory usage since only a single top-level element is stored in memory (in
--- the example, we use <Event> tags as the top-level)
+-- This example uses xmlua (high level lua bindings to libxml2 using luajit
+-- FFI) to parse streaming xml. It uses libxml2 push/sax parser, so it has low
+-- memory usage due to only a single top-level element being stored in memory
+-- (in the example, we use <Event> tags as the top-level)
 --
--- The resulting top-level tag is returned as a single structured record for
+-- The resulting top-level element is returned as a single structured record for
 -- processing in other layers.
 local xmlua = require("xmlua")
 
@@ -79,6 +79,7 @@ function process_record(tag, timestamp, record)
     -- fully parsed record
     return 2, timestamp, result
   else
+    -- drop since the <Event> element is not complete yet
     return -1, timestamp, record
   end
 end

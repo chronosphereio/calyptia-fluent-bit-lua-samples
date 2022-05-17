@@ -1,4 +1,4 @@
-FROM fluent/fluent-bit:1.8-debug
+FROM fluent/fluent-bit:1.9.3-debug
 
 RUN apt-get update && \
     apt-get upgrade -y && \
