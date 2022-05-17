@@ -1,0 +1,7 @@
+log line 1, SSN: 232, Severity: 3, 192.168.1.3, some extra data 1
+log line 2, sSN: 3232456, some extra data 2, Severity: 100, 192.168.0.8
+log line 3, ssn: 980986.23223-112, severity: 30, 10.3.4.1, some extra data 3
+log line 4, some extra data 4, SSn: 2323-2323, Severity: 70, 192.168.254.8
+log line 5, ssN: 58828, Severity: 80, 10.0.5.2, some extra data 5
+log line 6, sSn: 94309-a-3232, Severity: 10, some extra data 6, 8.8.4.4
+log line 7, SSN: 823793, severity: 100, 8.8.8.8 some extra data 7
