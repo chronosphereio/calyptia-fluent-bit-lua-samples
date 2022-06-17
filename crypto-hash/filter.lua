@@ -1,3 +1,5 @@
+-- import the "digest" openssl submodule, which contains implementations of
+-- multiple cryptographic hash algorithms
 local digest = require 'openssl.digest'
 
 local function tohex(bytes)
