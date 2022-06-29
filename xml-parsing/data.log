@@ -1,0 +1,2870 @@
+<SMXEventLog LogVersion="1" MachineName="AVSERVER1" OSVersion="6.2.9200.0">
+
+<Event name="USBDeviceDisconnected" time="6/12/2019 1:06:36 PM">
+  <EventProperty name="DeviceDescriptor">
+    <VendorId>0x2009</VendorId>
+    <ProductId>0x16AF</ProductId>
+    <Class>0x00</Class>
+    <ClassString>Use Interface Descriptors</ClassString>
+    <SubClass>0x00</SubClass>
+    <Protocol>0x00</Protocol>
+  </EventProperty>
+  <EventProperty name="ManufacturerId">
+                            Kingston
+                        </EventProperty>
+  <EventProperty name="ProductId">
+                            DT2000
+                        </EventProperty>
+  <EventProperty name="SerialNumber">
+                            200916AF660186190F8EE937
+                        </EventProperty>
+  <EventProperty name="ConfigurationDescriptor">
+    <ConfigDescriptor index="0">
+      <InterfaceCount>1</InterfaceCount>
+      <Interface>
+        <Class>0x08</Class>
+        <ClassString>Mass Storage</ClassString>
+        <SubClass>0x06</SubClass>
+        <Protocol>0x50</Protocol>
+      </Interface>
+    </ConfigDescriptor>
+  </EventProperty>
+</Event>
+
+<Event name="USBDeviceConnected" time="6/12/2019 1:21:42 PM">
+  <EventProperty name="DeviceDescriptor">
+    <VendorId>0x2009</VendorId>
+    <ProductId>0x16AF</ProductId>
+    <Class>0x00</Class>
+    <ClassString>Use Interface Descriptors</ClassString>
+    <SubClass>0x00</SubClass>
+    <Protocol>0x00</Protocol>
+  </EventProperty>
+  <EventProperty name="ManufacturerId">
+                            Kingston
+                        </EventProperty>
+  <EventProperty name="ProductId">
+                            DT2000
+                        </EventProperty>
+  <EventProperty name="SerialNumber">
+                            200916AF660186190F8EE937
+                        </EventProperty>
+  <EventProperty name="ConfigurationDescriptor">
+    <ConfigDescriptor index="0">
+      <InterfaceCount>1</InterfaceCount>
+      <Interface>
+        <Class>0x08</Class>
+        <ClassString>Mass Storage</ClassString>
+        <SubClass>0x06</SubClass>
+        <Protocol>0x50</Protocol>
+      </Interface>
+    </ConfigDescriptor>
+  </EventProperty>
+</Event>
+
+<Event name="USBDeviceAuthorized" time="6/12/2019 1:21:55 PM">
+  <EventProperty name="DeviceDescriptor">
+    <VendorId>0x2009</VendorId>
+    <ProductId>0x16AF</ProductId>
+    <Class>0x00</Class>
+    <ClassString>Use Interface Descriptors</ClassString>
+    <SubClass>0x00</SubClass>
+    <Protocol>0x00</Protocol>
+  </EventProperty>
+  <EventProperty name="ManufacturerId">
+                            Kingston
+                        </EventProperty>
+  <EventProperty name="ProductId">
+                            DT2000
+                        </EventProperty>
+  <EventProperty name="SerialNumber">
+                            200916AF660186190F8EE937
+                        </EventProperty>
+  <EventProperty name="ConfigurationDescriptor">
+    <ConfigDescriptor index="0">
+      <InterfaceCount>1</InterfaceCount>
+      <Interface>
+        <Class>0x08</Class>
+        <ClassString>Mass Storage</ClassString>
+        <SubClass>0x06</SubClass>
+        <Protocol>0x50</Protocol>
+      </Interface>
+    </ConfigDescriptor>
+  </EventProperty>
+  <EventProperty name="Reason">
+                            4
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Program Files (x86)\Honeywell\SMXDriver\SMXNotificationApp\SMXUsbAuthAdmin.exe
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+</Event>
+
+<Event name="SMXDiskConnected" time="6/12/2019 1:21:55 PM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+</Event>
+
+<Event name="ManifestValid" time="6/12/2019 1:21:55 PM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{3d28b141-8d37-11e9-80ee-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            2484346624
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            38
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-239633
+                        </EventProperty>
+</Event>
+
+<Event name="USBDeviceDisconnected" time="6/12/2019 1:22:16 PM">
+  <EventProperty name="DeviceDescriptor">
+    <VendorId>0x2009</VendorId>
+    <ProductId>0x16AF</ProductId>
+    <Class>0x00</Class>
+    <ClassString>Use Interface Descriptors</ClassString>
+    <SubClass>0x00</SubClass>
+    <Protocol>0x00</Protocol>
+  </EventProperty>
+  <EventProperty name="ManufacturerId">
+                            Kingston
+                        </EventProperty>
+  <EventProperty name="ProductId">
+                            DT2000
+                        </EventProperty>
+  <EventProperty name="SerialNumber">
+                            200916AF660186190F8EE937
+                        </EventProperty>
+  <EventProperty name="ConfigurationDescriptor">
+    <ConfigDescriptor index="0">
+      <InterfaceCount>1</InterfaceCount>
+      <Interface>
+        <Class>0x08</Class>
+        <ClassString>Mass Storage</ClassString>
+        <SubClass>0x06</SubClass>
+        <Protocol>0x50</Protocol>
+      </Interface>
+    </ConfigDescriptor>
+  </EventProperty>
+</Event>
+
+<Event name="SMXDiskDisconnected" time="6/12/2019 1:22:16 PM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+</Event>
+
+<Event name="USBDeviceConnected" time="6/12/2019 1:37:20 PM">
+  <EventProperty name="DeviceDescriptor">
+    <VendorId>0x2009</VendorId>
+    <ProductId>0x16AF</ProductId>
+    <Class>0x00</Class>
+    <ClassString>Use Interface Descriptors</ClassString>
+    <SubClass>0x00</SubClass>
+    <Protocol>0x00</Protocol>
+  </EventProperty>
+  <EventProperty name="ManufacturerId">
+                            Kingston
+                        </EventProperty>
+  <EventProperty name="ProductId">
+                            DT2000
+                        </EventProperty>
+  <EventProperty name="SerialNumber">
+                            200916AF660186190F8EE937
+                        </EventProperty>
+  <EventProperty name="ConfigurationDescriptor">
+    <ConfigDescriptor index="0">
+      <InterfaceCount>1</InterfaceCount>
+      <Interface>
+        <Class>0x08</Class>
+        <ClassString>Mass Storage</ClassString>
+        <SubClass>0x06</SubClass>
+        <Protocol>0x50</Protocol>
+      </Interface>
+    </ConfigDescriptor>
+  </EventProperty>
+</Event>
+
+<Event name="USBDeviceAuthorized" time="6/12/2019 1:37:47 PM">
+  <EventProperty name="DeviceDescriptor">
+    <VendorId>0x2009</VendorId>
+    <ProductId>0x16AF</ProductId>
+    <Class>0x00</Class>
+    <ClassString>Use Interface Descriptors</ClassString>
+    <SubClass>0x00</SubClass>
+    <Protocol>0x00</Protocol>
+  </EventProperty>
+  <EventProperty name="ManufacturerId">
+                            Kingston
+                        </EventProperty>
+  <EventProperty name="ProductId">
+                            DT2000
+                        </EventProperty>
+  <EventProperty name="SerialNumber">
+                            200916AF660186190F8EE937
+                        </EventProperty>
+  <EventProperty name="ConfigurationDescriptor">
+    <ConfigDescriptor index="0">
+      <InterfaceCount>1</InterfaceCount>
+      <Interface>
+        <Class>0x08</Class>
+        <ClassString>Mass Storage</ClassString>
+        <SubClass>0x06</SubClass>
+        <Protocol>0x50</Protocol>
+      </Interface>
+    </ConfigDescriptor>
+  </EventProperty>
+  <EventProperty name="Reason">
+                            4
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Program Files (x86)\Honeywell\SMXDriver\SMXNotificationApp\SMXUsbAuthAdmin.exe
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+</Event>
+
+<Event name="NonSMXDiskBlocked" time="6/12/2019 1:37:47 PM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+</Event>
+
+<Event name="USBDeviceDisconnected" time="6/12/2019 1:38:53 PM">
+  <EventProperty name="DeviceDescriptor">
+    <VendorId>0x2009</VendorId>
+    <ProductId>0x16AF</ProductId>
+    <Class>0x00</Class>
+    <ClassString>Use Interface Descriptors</ClassString>
+    <SubClass>0x00</SubClass>
+    <Protocol>0x00</Protocol>
+  </EventProperty>
+  <EventProperty name="ManufacturerId">
+                            Kingston
+                        </EventProperty>
+  <EventProperty name="ProductId">
+                            DT2000
+                        </EventProperty>
+  <EventProperty name="SerialNumber">
+                            200916AF660186190F8EE937
+                        </EventProperty>
+  <EventProperty name="ConfigurationDescriptor">
+    <ConfigDescriptor index="0">
+      <InterfaceCount>1</InterfaceCount>
+      <Interface>
+        <Class>0x08</Class>
+        <ClassString>Mass Storage</ClassString>
+        <SubClass>0x06</SubClass>
+        <Protocol>0x50</Protocol>
+      </Interface>
+    </ConfigDescriptor>
+  </EventProperty>
+</Event>
+
+<Event name="USBDeviceConnected" time="6/12/2019 1:41:05 PM">
+  <EventProperty name="DeviceDescriptor">
+    <VendorId>0x2009</VendorId>
+    <ProductId>0x16AF</ProductId>
+    <Class>0x00</Class>
+    <ClassString>Use Interface Descriptors</ClassString>
+    <SubClass>0x00</SubClass>
+    <Protocol>0x00</Protocol>
+  </EventProperty>
+  <EventProperty name="ManufacturerId">
+                            Kingston
+                        </EventProperty>
+  <EventProperty name="ProductId">
+                            DT2000
+                        </EventProperty>
+  <EventProperty name="SerialNumber">
+                            200916AF660186190F8EE937
+                        </EventProperty>
+  <EventProperty name="ConfigurationDescriptor">
+    <ConfigDescriptor index="0">
+      <InterfaceCount>1</InterfaceCount>
+      <Interface>
+        <Class>0x08</Class>
+        <ClassString>Mass Storage</ClassString>
+        <SubClass>0x06</SubClass>
+        <Protocol>0x50</Protocol>
+      </Interface>
+    </ConfigDescriptor>
+  </EventProperty>
+</Event>
+
+<Event name="USBDeviceAuthorized" time="6/12/2019 1:41:20 PM">
+  <EventProperty name="DeviceDescriptor">
+    <VendorId>0x2009</VendorId>
+    <ProductId>0x16AF</ProductId>
+    <Class>0x00</Class>
+    <ClassString>Use Interface Descriptors</ClassString>
+    <SubClass>0x00</SubClass>
+    <Protocol>0x00</Protocol>
+  </EventProperty>
+  <EventProperty name="ManufacturerId">
+                            Kingston
+                        </EventProperty>
+  <EventProperty name="ProductId">
+                            DT2000
+                        </EventProperty>
+  <EventProperty name="SerialNumber">
+                            200916AF660186190F8EE937
+                        </EventProperty>
+  <EventProperty name="ConfigurationDescriptor">
+    <ConfigDescriptor index="0">
+      <InterfaceCount>1</InterfaceCount>
+      <Interface>
+        <Class>0x08</Class>
+        <ClassString>Mass Storage</ClassString>
+        <SubClass>0x06</SubClass>
+        <Protocol>0x50</Protocol>
+      </Interface>
+    </ConfigDescriptor>
+  </EventProperty>
+  <EventProperty name="Reason">
+                            4
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Program Files (x86)\Honeywell\SMXDriver\SMXNotificationApp\SMXUsbAuthAdmin.exe
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+</Event>
+
+<Event name="SMXDiskConnected" time="6/12/2019 1:41:21 PM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+</Event>
+
+<Event name="ManifestValid" time="6/12/2019 1:41:21 PM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{3d28b141-8d37-11e9-80ee-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            2484346624
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            40
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-239689
+                        </EventProperty>
+</Event>
+
+<Event name="FileCreated" time="6/12/2019 1:41:56 PM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{3d28b141-8d37-11e9-80ee-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \SMX_10.log
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\explorer.exe
+                        </EventProperty>
+  <EventProperty name="CreateType">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            2484346624
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            40
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-239689
+                        </EventProperty>
+</Event>
+
+<Event name="FileAccessed" time="6/12/2019 1:41:56 PM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{3d28b141-8d37-11e9-80ee-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \SMX_10.log
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\explorer.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            7
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            2484346624
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            40
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-239689
+                        </EventProperty>
+</Event>
+
+<Event name="FileCreated" time="6/12/2019 1:41:56 PM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{3d28b141-8d37-11e9-80ee-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \SMX_3.log
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\explorer.exe
+                        </EventProperty>
+  <EventProperty name="CreateType">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            2484346624
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            40
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-239689
+                        </EventProperty>
+</Event>
+
+<Event name="FileCreated" time="6/12/2019 1:41:56 PM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{3d28b141-8d37-11e9-80ee-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \SMX_4.log
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\explorer.exe
+                        </EventProperty>
+  <EventProperty name="CreateType">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            2484346624
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            40
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-239689
+                        </EventProperty>
+</Event>
+
+<Event name="FileCreated" time="6/12/2019 1:41:56 PM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{3d28b141-8d37-11e9-80ee-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \SMX_5.log
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\explorer.exe
+                        </EventProperty>
+  <EventProperty name="CreateType">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            2484346624
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            40
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-239689
+                        </EventProperty>
+</Event>
+
+<Event name="FileCreated" time="6/12/2019 1:41:56 PM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{3d28b141-8d37-11e9-80ee-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \SMX_6.log
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\explorer.exe
+                        </EventProperty>
+  <EventProperty name="CreateType">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            2484346624
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            40
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-239689
+                        </EventProperty>
+</Event>
+
+<Event name="FileCreated" time="6/12/2019 1:41:56 PM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{3d28b141-8d37-11e9-80ee-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \SMX_7.log
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\explorer.exe
+                        </EventProperty>
+  <EventProperty name="CreateType">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            2484346624
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            40
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-239689
+                        </EventProperty>
+</Event>
+
+<Event name="FileCreated" time="6/12/2019 1:41:56 PM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{3d28b141-8d37-11e9-80ee-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \SMX_8.log
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\explorer.exe
+                        </EventProperty>
+  <EventProperty name="CreateType">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            2484346624
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            40
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-239689
+                        </EventProperty>
+</Event>
+
+<Event name="FileCreated" time="6/12/2019 1:41:56 PM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{3d28b141-8d37-11e9-80ee-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \SMX_9.log
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\explorer.exe
+                        </EventProperty>
+  <EventProperty name="CreateType">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            2484346624
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            40
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-239689
+                        </EventProperty>
+</Event>
+
+<Event name="FileValidated" time="6/12/2019 1:42:09 PM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{3d28b141-8d37-11e9-80ee-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \applog.evtx
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\explorer.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            2484346624
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            40
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-239689
+                        </EventProperty>
+</Event>
+
+<Event name="FileAccessed" time="6/12/2019 1:42:09 PM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{3d28b141-8d37-11e9-80ee-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \applog.evtx
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\explorer.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            2484346624
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            40
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-239689
+                        </EventProperty>
+</Event>
+
+<Event name="FileCreated" time="6/12/2019 1:42:16 PM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{3d28b141-8d37-11e9-80ee-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \applog.zip
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\explorer.exe
+                        </EventProperty>
+  <EventProperty name="CreateType">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            2484346624
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            40
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-239689
+                        </EventProperty>
+</Event>
+
+<Event name="FileAccessed" time="6/12/2019 1:42:16 PM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{3d28b141-8d37-11e9-80ee-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \applog.evtx
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\explorer.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            2484346624
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            40
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-239689
+                        </EventProperty>
+</Event>
+
+<Event name="USBDeviceDisconnected" time="6/12/2019 1:42:39 PM">
+  <EventProperty name="DeviceDescriptor">
+    <VendorId>0x2009</VendorId>
+    <ProductId>0x16AF</ProductId>
+    <Class>0x00</Class>
+    <ClassString>Use Interface Descriptors</ClassString>
+    <SubClass>0x00</SubClass>
+    <Protocol>0x00</Protocol>
+  </EventProperty>
+  <EventProperty name="ManufacturerId">
+                            Kingston
+                        </EventProperty>
+  <EventProperty name="ProductId">
+                            DT2000
+                        </EventProperty>
+  <EventProperty name="SerialNumber">
+                            200916AF660186190F8EE937
+                        </EventProperty>
+  <EventProperty name="ConfigurationDescriptor">
+    <ConfigDescriptor index="0">
+      <InterfaceCount>1</InterfaceCount>
+      <Interface>
+        <Class>0x08</Class>
+        <ClassString>Mass Storage</ClassString>
+        <SubClass>0x06</SubClass>
+        <Protocol>0x50</Protocol>
+      </Interface>
+    </ConfigDescriptor>
+  </EventProperty>
+</Event>
+
+<Event name="SMXDiskDisconnected" time="6/12/2019 1:42:39 PM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+</Event>
+
+<Event name="USBDeviceConnected" time="6/19/2019 10:29:34 AM">
+  <EventProperty name="DeviceDescriptor">
+    <VendorId>0x2009</VendorId>
+    <ProductId>0x16AF</ProductId>
+    <Class>0x00</Class>
+    <ClassString>Use Interface Descriptors</ClassString>
+    <SubClass>0x00</SubClass>
+    <Protocol>0x00</Protocol>
+  </EventProperty>
+  <EventProperty name="ManufacturerId">
+                            Kingston
+                        </EventProperty>
+  <EventProperty name="ProductId">
+                            DT2000
+                        </EventProperty>
+  <EventProperty name="SerialNumber">
+                            200916AF660185FD938EE936
+                        </EventProperty>
+  <EventProperty name="ConfigurationDescriptor">
+    <ConfigDescriptor index="0">
+      <InterfaceCount>1</InterfaceCount>
+      <Interface>
+        <Class>0x08</Class>
+        <ClassString>Mass Storage</ClassString>
+        <SubClass>0x06</SubClass>
+        <Protocol>0x50</Protocol>
+      </Interface>
+    </ConfigDescriptor>
+  </EventProperty>
+</Event>
+
+<Event name="USBDeviceAuthorized" time="6/19/2019 10:30:08 AM">
+  <EventProperty name="DeviceDescriptor">
+    <VendorId>0x2009</VendorId>
+    <ProductId>0x16AF</ProductId>
+    <Class>0x00</Class>
+    <ClassString>Use Interface Descriptors</ClassString>
+    <SubClass>0x00</SubClass>
+    <Protocol>0x00</Protocol>
+  </EventProperty>
+  <EventProperty name="ManufacturerId">
+                            Kingston
+                        </EventProperty>
+  <EventProperty name="ProductId">
+                            DT2000
+                        </EventProperty>
+  <EventProperty name="SerialNumber">
+                            200916AF660185FD938EE936
+                        </EventProperty>
+  <EventProperty name="ConfigurationDescriptor">
+    <ConfigDescriptor index="0">
+      <InterfaceCount>1</InterfaceCount>
+      <Interface>
+        <Class>0x08</Class>
+        <ClassString>Mass Storage</ClassString>
+        <SubClass>0x06</SubClass>
+        <Protocol>0x50</Protocol>
+      </Interface>
+    </ConfigDescriptor>
+  </EventProperty>
+  <EventProperty name="Reason">
+                            4
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Program Files (x86)\Honeywell\SMXDriver\SMXNotificationApp\SMXUsbAuthAdmin.exe
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+</Event>
+
+<Event name="SMXDiskConnected" time="6/19/2019 10:30:09 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+</Event>
+
+<Event name="ManifestValid" time="6/19/2019 10:30:09 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            41
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253887
+                        </EventProperty>
+</Event>
+
+<Event name="FileNotInManifest" time="6/19/2019 10:31:13 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Documents\PAS reports emails.rtf
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Program Files\Windows NT\Accessories\wordpad.exe
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            41
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253887
+                        </EventProperty>
+</Event>
+
+<Event name="SMXDiskDisconnected" time="6/19/2019 10:32:00 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+</Event>
+
+<Event name="USBDeviceDisconnected" time="6/19/2019 10:32:00 AM">
+  <EventProperty name="DeviceDescriptor">
+    <VendorId>0x2009</VendorId>
+    <ProductId>0x16AF</ProductId>
+    <Class>0x00</Class>
+    <ClassString>Use Interface Descriptors</ClassString>
+    <SubClass>0x00</SubClass>
+    <Protocol>0x00</Protocol>
+  </EventProperty>
+  <EventProperty name="ManufacturerId">
+                            Kingston
+                        </EventProperty>
+  <EventProperty name="ProductId">
+                            DT2000
+                        </EventProperty>
+  <EventProperty name="SerialNumber">
+                            200916AF660185FD938EE936
+                        </EventProperty>
+  <EventProperty name="ConfigurationDescriptor">
+    <ConfigDescriptor index="0">
+      <InterfaceCount>1</InterfaceCount>
+      <Interface>
+        <Class>0x08</Class>
+        <ClassString>Mass Storage</ClassString>
+        <SubClass>0x06</SubClass>
+        <Protocol>0x50</Protocol>
+      </Interface>
+    </ConfigDescriptor>
+  </EventProperty>
+</Event>
+
+<Event name="USBDeviceConnected" time="6/19/2019 10:37:29 AM">
+  <EventProperty name="DeviceDescriptor">
+    <VendorId>0x2009</VendorId>
+    <ProductId>0x16AF</ProductId>
+    <Class>0x00</Class>
+    <ClassString>Use Interface Descriptors</ClassString>
+    <SubClass>0x00</SubClass>
+    <Protocol>0x00</Protocol>
+  </EventProperty>
+  <EventProperty name="ManufacturerId">
+                            Kingston
+                        </EventProperty>
+  <EventProperty name="ProductId">
+                            DT2000
+                        </EventProperty>
+  <EventProperty name="SerialNumber">
+                            200916AF660185FD938EE936
+                        </EventProperty>
+  <EventProperty name="ConfigurationDescriptor">
+    <ConfigDescriptor index="0">
+      <InterfaceCount>1</InterfaceCount>
+      <Interface>
+        <Class>0x08</Class>
+        <ClassString>Mass Storage</ClassString>
+        <SubClass>0x06</SubClass>
+        <Protocol>0x50</Protocol>
+      </Interface>
+    </ConfigDescriptor>
+  </EventProperty>
+</Event>
+
+<Event name="USBDeviceAuthorized" time="6/19/2019 10:37:47 AM">
+  <EventProperty name="DeviceDescriptor">
+    <VendorId>0x2009</VendorId>
+    <ProductId>0x16AF</ProductId>
+    <Class>0x00</Class>
+    <ClassString>Use Interface Descriptors</ClassString>
+    <SubClass>0x00</SubClass>
+    <Protocol>0x00</Protocol>
+  </EventProperty>
+  <EventProperty name="ManufacturerId">
+                            Kingston
+                        </EventProperty>
+  <EventProperty name="ProductId">
+                            DT2000
+                        </EventProperty>
+  <EventProperty name="SerialNumber">
+                            200916AF660185FD938EE936
+                        </EventProperty>
+  <EventProperty name="ConfigurationDescriptor">
+    <ConfigDescriptor index="0">
+      <InterfaceCount>1</InterfaceCount>
+      <Interface>
+        <Class>0x08</Class>
+        <ClassString>Mass Storage</ClassString>
+        <SubClass>0x06</SubClass>
+        <Protocol>0x50</Protocol>
+      </Interface>
+    </ConfigDescriptor>
+  </EventProperty>
+  <EventProperty name="Reason">
+                            4
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Program Files (x86)\Honeywell\SMXDriver\SMXNotificationApp\SMXUsbAuthAdmin.exe
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+</Event>
+
+<Event name="SMXDiskConnected" time="6/19/2019 10:37:48 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+</Event>
+
+<Event name="ManifestValid" time="6/19/2019 10:37:48 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileNotInManifest" time="6/19/2019 10:38:01 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \image1.jpeg
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\System32\mspaint.exe
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileNotInManifest" time="6/19/2019 10:38:04 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \image2.jpeg
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\System32\mspaint.exe
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileNotInManifest" time="6/19/2019 10:38:11 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \tightvnc-2.8.11-gpl-setup-64bit.msi
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\System32\msiexec.exe
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileValidated" time="6/19/2019 10:38:21 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Who crashed\whocrashedSetup.exe
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\explorer.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileAccessed" time="6/19/2019 10:38:21 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Who crashed\whocrashedSetup.exe
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\explorer.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileAccessed" time="6/19/2019 10:38:21 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Who crashed\whocrashedSetup.exe
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\explorer.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileAccessed" time="6/19/2019 10:38:21 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Who crashed\whocrashedSetup.exe
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\explorer.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileAccessed" time="6/19/2019 10:38:21 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Who crashed\whocrashedSetup.exe
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\explorer.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileAccessed" time="6/19/2019 10:38:21 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Who crashed\whocrashedSetup.exe
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\explorer.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileAccessed" time="6/19/2019 10:38:21 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Who crashed\whocrashedSetup.exe
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\explorer.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileAccessed" time="6/19/2019 10:38:23 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Who crashed\whocrashedSetup.exe
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\explorer.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileAccessed" time="6/19/2019 10:38:23 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Who crashed\whocrashedSetup.exe
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\explorer.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileAccessed" time="6/19/2019 10:38:23 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Who crashed\whocrashedSetup.exe
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume23\Who crashed\whocrashedSetup.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileAccessed" time="6/19/2019 10:38:23 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Who crashed\whocrashedSetup.exe
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume23\Who crashed\whocrashedSetup.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileAccessed" time="6/19/2019 10:38:23 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Who crashed\whocrashedSetup.exe
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Users\ADMINI~1.BRO\AppData\Local\Temp\is-46Q2J.tmp\whocrashedSetup.tmp
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileAccessed" time="6/19/2019 10:38:23 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Who crashed\whocrashedSetup.exe
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\System32\svchost.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            NT AUTHORITY\SYSTEM
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileAccessed" time="6/19/2019 10:38:23 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Who crashed\whocrashedSetup.exe
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\System32\svchost.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            NT AUTHORITY\SYSTEM
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileAccessed" time="6/19/2019 10:38:23 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Who crashed\whocrashedSetup.exe
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\System32\svchost.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            NT AUTHORITY\SYSTEM
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileAccessed" time="6/19/2019 10:38:23 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Who crashed\whocrashedSetup.exe
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\System32\svchost.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            NT AUTHORITY\SYSTEM
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileAccessed" time="6/19/2019 10:38:23 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Who crashed\whocrashedSetup.exe
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\System32\svchost.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            NT AUTHORITY\SYSTEM
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileAccessed" time="6/19/2019 10:38:23 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Who crashed\whocrashedSetup.exe
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\System32\svchost.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            NT AUTHORITY\SYSTEM
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileAccessed" time="6/19/2019 10:38:23 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Who crashed\whocrashedSetup.exe
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\System32\svchost.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            NT AUTHORITY\SYSTEM
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileAccessed" time="6/19/2019 10:38:23 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Who crashed\whocrashedSetup.exe
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\System32\svchost.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            NT AUTHORITY\SYSTEM
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileAccessed" time="6/19/2019 10:38:23 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Who crashed\whocrashedSetup.exe
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\System32\svchost.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            NT AUTHORITY\SYSTEM
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileAccessed" time="6/19/2019 10:38:23 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Who crashed\whocrashedSetup.exe
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\System32\svchost.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            NT AUTHORITY\SYSTEM
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileAccessed" time="6/19/2019 10:38:23 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Who crashed\whocrashedSetup.exe
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\System32\svchost.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            NT AUTHORITY\SYSTEM
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileAccessed" time="6/19/2019 10:38:23 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Who crashed\whocrashedSetup.exe
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\System32\svchost.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            NT AUTHORITY\SYSTEM
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileAccessed" time="6/19/2019 10:38:23 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Who crashed\whocrashedSetup.exe
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\System32\svchost.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            NT AUTHORITY\SYSTEM
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileAccessed" time="6/19/2019 10:38:23 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Who crashed\whocrashedSetup.exe
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\System32\svchost.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            NT AUTHORITY\SYSTEM
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileAccessed" time="6/19/2019 10:38:23 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Who crashed\whocrashedSetup.exe
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\System32\svchost.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            NT AUTHORITY\SYSTEM
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileAccessed" time="6/19/2019 10:38:23 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Who crashed\whocrashedSetup.exe
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\System32\svchost.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            NT AUTHORITY\SYSTEM
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileAccessed" time="6/19/2019 10:38:23 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Who crashed\whocrashedSetup.exe
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\System32\svchost.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            NT AUTHORITY\SYSTEM
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileAccessed" time="6/19/2019 10:38:23 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Who crashed\whocrashedSetup.exe
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\System32\svchost.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            NT AUTHORITY\SYSTEM
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileAccessed" time="6/19/2019 10:38:23 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Who crashed\whocrashedSetup.exe
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\System32\svchost.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            NT AUTHORITY\SYSTEM
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileAccessed" time="6/19/2019 10:38:23 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Who crashed\whocrashedSetup.exe
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\System32\svchost.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            NT AUTHORITY\SYSTEM
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileAccessed" time="6/19/2019 10:38:23 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Who crashed\whocrashedSetup.exe
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\System32\svchost.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            NT AUTHORITY\SYSTEM
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileAccessed" time="6/19/2019 10:38:23 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Who crashed\whocrashedSetup.exe
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\System32\svchost.exe
+                        </EventProperty>
+  <EventProperty name="AccessTypeMask">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            NT AUTHORITY\SYSTEM
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileCreated" time="6/19/2019 10:39:50 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Via_AxonAgent\32bitDualAgents\._Axon_Agent_x86.msi
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\explorer.exe
+                        </EventProperty>
+  <EventProperty name="CreateType">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileCreated" time="6/19/2019 10:39:50 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Via_AxonAgent\32bitDualAgents\Axon_Agent_x86.msi
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\explorer.exe
+                        </EventProperty>
+  <EventProperty name="CreateType">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileCreated" time="6/19/2019 10:39:53 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Via_AxonAgent\32bitDualAgents\InstallDualAxonAgentsx86.ps1
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\explorer.exe
+                        </EventProperty>
+  <EventProperty name="CreateType">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileCreated" time="6/19/2019 10:39:53 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Via_AxonAgent\32bitDualAgents\TW_VIA_Agent_x86_scramble.msi
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\explorer.exe
+                        </EventProperty>
+  <EventProperty name="CreateType">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileCreated" time="6/19/2019 10:39:55 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Via_AxonAgent\64bitDualAgents\._Axon_Agent_x64.msi
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\explorer.exe
+                        </EventProperty>
+  <EventProperty name="CreateType">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileCreated" time="6/19/2019 10:39:55 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Via_AxonAgent\64bitDualAgents\Axon_Agent_x64.msi
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\explorer.exe
+                        </EventProperty>
+  <EventProperty name="CreateType">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileCreated" time="6/19/2019 10:39:58 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Via_AxonAgent\64bitDualAgents\InstallDualAxonAgentsx64.ps1
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\explorer.exe
+                        </EventProperty>
+  <EventProperty name="CreateType">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="FileCreated" time="6/19/2019 10:39:58 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="FileName">
+                            \Via_AxonAgent\64bitDualAgents\TW_VIA_Agent_x64_scramble.msi
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Windows\explorer.exe
+                        </EventProperty>
+  <EventProperty name="CreateType">
+                            1
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            992339676
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            42
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-253921
+                        </EventProperty>
+</Event>
+
+<Event name="SMXDiskDisconnected" time="6/19/2019 10:40:28 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+</Event>
+
+<Event name="USBDeviceDisconnected" time="6/19/2019 10:40:28 AM">
+  <EventProperty name="DeviceDescriptor">
+    <VendorId>0x2009</VendorId>
+    <ProductId>0x16AF</ProductId>
+    <Class>0x00</Class>
+    <ClassString>Use Interface Descriptors</ClassString>
+    <SubClass>0x00</SubClass>
+    <Protocol>0x00</Protocol>
+  </EventProperty>
+  <EventProperty name="ManufacturerId">
+                            Kingston
+                        </EventProperty>
+  <EventProperty name="ProductId">
+                            DT2000
+                        </EventProperty>
+  <EventProperty name="SerialNumber">
+                            200916AF660185FD938EE936
+                        </EventProperty>
+  <EventProperty name="ConfigurationDescriptor">
+    <ConfigDescriptor index="0">
+      <InterfaceCount>1</InterfaceCount>
+      <Interface>
+        <Class>0x08</Class>
+        <ClassString>Mass Storage</ClassString>
+        <SubClass>0x06</SubClass>
+        <Protocol>0x50</Protocol>
+      </Interface>
+    </ConfigDescriptor>
+  </EventProperty>
+</Event>
+
+<Event name="USBDeviceConnected" time="6/19/2019 10:46:42 AM">
+  <EventProperty name="DeviceDescriptor">
+    <VendorId>0x2009</VendorId>
+    <ProductId>0x16AF</ProductId>
+    <Class>0x00</Class>
+    <ClassString>Use Interface Descriptors</ClassString>
+    <SubClass>0x00</SubClass>
+    <Protocol>0x00</Protocol>
+  </EventProperty>
+  <EventProperty name="ManufacturerId">
+                            Kingston
+                        </EventProperty>
+  <EventProperty name="ProductId">
+                            DT2000
+                        </EventProperty>
+  <EventProperty name="SerialNumber">
+                            200916AF660185FD938EE936
+                        </EventProperty>
+  <EventProperty name="ConfigurationDescriptor">
+    <ConfigDescriptor index="0">
+      <InterfaceCount>1</InterfaceCount>
+      <Interface>
+        <Class>0x08</Class>
+        <ClassString>Mass Storage</ClassString>
+        <SubClass>0x06</SubClass>
+        <Protocol>0x50</Protocol>
+      </Interface>
+    </ConfigDescriptor>
+  </EventProperty>
+</Event>
+
+<Event name="USBDeviceAuthorized" time="6/19/2019 10:47:01 AM">
+  <EventProperty name="DeviceDescriptor">
+    <VendorId>0x2009</VendorId>
+    <ProductId>0x16AF</ProductId>
+    <Class>0x00</Class>
+    <ClassString>Use Interface Descriptors</ClassString>
+    <SubClass>0x00</SubClass>
+    <Protocol>0x00</Protocol>
+  </EventProperty>
+  <EventProperty name="ManufacturerId">
+                            Kingston
+                        </EventProperty>
+  <EventProperty name="ProductId">
+                            DT2000
+                        </EventProperty>
+  <EventProperty name="SerialNumber">
+                            200916AF660185FD938EE936
+                        </EventProperty>
+  <EventProperty name="ConfigurationDescriptor">
+    <ConfigDescriptor index="0">
+      <InterfaceCount>1</InterfaceCount>
+      <Interface>
+        <Class>0x08</Class>
+        <ClassString>Mass Storage</ClassString>
+        <SubClass>0x06</SubClass>
+        <Protocol>0x50</Protocol>
+      </Interface>
+    </ConfigDescriptor>
+  </EventProperty>
+  <EventProperty name="Reason">
+                            4
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Program Files (x86)\Honeywell\SMXDriver\SMXNotificationApp\SMXUsbAuthAdmin.exe
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+</Event>
+
+<Event name="NonSMXDiskBlocked" time="6/19/2019 10:47:01 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+</Event>
+
+<Event name="USBDeviceDisconnected" time="6/19/2019 10:48:28 AM">
+  <EventProperty name="DeviceDescriptor">
+    <VendorId>0x2009</VendorId>
+    <ProductId>0x16AF</ProductId>
+    <Class>0x00</Class>
+    <ClassString>Use Interface Descriptors</ClassString>
+    <SubClass>0x00</SubClass>
+    <Protocol>0x00</Protocol>
+  </EventProperty>
+  <EventProperty name="ManufacturerId">
+                            Kingston
+                        </EventProperty>
+  <EventProperty name="ProductId">
+                            DT2000
+                        </EventProperty>
+  <EventProperty name="SerialNumber">
+                            200916AF660185FD938EE936
+                        </EventProperty>
+  <EventProperty name="ConfigurationDescriptor">
+    <ConfigDescriptor index="0">
+      <InterfaceCount>1</InterfaceCount>
+      <Interface>
+        <Class>0x08</Class>
+        <ClassString>Mass Storage</ClassString>
+        <SubClass>0x06</SubClass>
+        <Protocol>0x50</Protocol>
+      </Interface>
+    </ConfigDescriptor>
+  </EventProperty>
+</Event>
+
+<Event name="USBDeviceConnected" time="6/19/2019 11:43:17 AM">
+  <EventProperty name="DeviceDescriptor">
+    <VendorId>0x2009</VendorId>
+    <ProductId>0x16AF</ProductId>
+    <Class>0x00</Class>
+    <ClassString>Use Interface Descriptors</ClassString>
+    <SubClass>0x00</SubClass>
+    <Protocol>0x00</Protocol>
+  </EventProperty>
+  <EventProperty name="ManufacturerId">
+                            Kingston
+                        </EventProperty>
+  <EventProperty name="ProductId">
+                            DT2000
+                        </EventProperty>
+  <EventProperty name="SerialNumber">
+                            200916AF660185FD938EE936
+                        </EventProperty>
+  <EventProperty name="ConfigurationDescriptor">
+    <ConfigDescriptor index="0">
+      <InterfaceCount>1</InterfaceCount>
+      <Interface>
+        <Class>0x08</Class>
+        <ClassString>Mass Storage</ClassString>
+        <SubClass>0x06</SubClass>
+        <Protocol>0x50</Protocol>
+      </Interface>
+    </ConfigDescriptor>
+  </EventProperty>
+</Event>
+
+<Event name="USBDeviceAuthorized" time="6/19/2019 11:43:31 AM">
+  <EventProperty name="DeviceDescriptor">
+    <VendorId>0x2009</VendorId>
+    <ProductId>0x16AF</ProductId>
+    <Class>0x00</Class>
+    <ClassString>Use Interface Descriptors</ClassString>
+    <SubClass>0x00</SubClass>
+    <Protocol>0x00</Protocol>
+  </EventProperty>
+  <EventProperty name="ManufacturerId">
+                            Kingston
+                        </EventProperty>
+  <EventProperty name="ProductId">
+                            DT2000
+                        </EventProperty>
+  <EventProperty name="SerialNumber">
+                            200916AF660185FD938EE936
+                        </EventProperty>
+  <EventProperty name="ConfigurationDescriptor">
+    <ConfigDescriptor index="0">
+      <InterfaceCount>1</InterfaceCount>
+      <Interface>
+        <Class>0x08</Class>
+        <ClassString>Mass Storage</ClassString>
+        <SubClass>0x06</SubClass>
+        <Protocol>0x50</Protocol>
+      </Interface>
+    </ConfigDescriptor>
+  </EventProperty>
+  <EventProperty name="Reason">
+                            4
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Program Files (x86)\Honeywell\SMXDriver\SMXNotificationApp\SMXUsbAuthAdmin.exe
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+</Event>
+
+<Event name="SMXDiskConnected" time="6/19/2019 11:43:31 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+</Event>
+
+<Event name="ManifestValid" time="6/19/2019 11:43:32 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            2726108358
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            44
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-254070
+                        </EventProperty>
+</Event>
+
+<Event name="USBDeviceDisconnected" time="6/19/2019 11:44:03 AM">
+  <EventProperty name="DeviceDescriptor">
+    <VendorId>0x2009</VendorId>
+    <ProductId>0x16AF</ProductId>
+    <Class>0x00</Class>
+    <ClassString>Use Interface Descriptors</ClassString>
+    <SubClass>0x00</SubClass>
+    <Protocol>0x00</Protocol>
+  </EventProperty>
+  <EventProperty name="ManufacturerId">
+                            Kingston
+                        </EventProperty>
+  <EventProperty name="ProductId">
+                            DT2000
+                        </EventProperty>
+  <EventProperty name="SerialNumber">
+                            200916AF660185FD938EE936
+                        </EventProperty>
+  <EventProperty name="ConfigurationDescriptor">
+    <ConfigDescriptor index="0">
+      <InterfaceCount>1</InterfaceCount>
+      <Interface>
+        <Class>0x08</Class>
+        <ClassString>Mass Storage</ClassString>
+        <SubClass>0x06</SubClass>
+        <Protocol>0x50</Protocol>
+      </Interface>
+    </ConfigDescriptor>
+  </EventProperty>
+</Event>
+
+<Event name="SMXDiskDisconnected" time="6/19/2019 11:44:04 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+</Event>
+
+<Event name="USBDeviceConnected" time="6/19/2019 11:45:23 AM">
+  <EventProperty name="DeviceDescriptor">
+    <VendorId>0x2009</VendorId>
+    <ProductId>0x16AF</ProductId>
+    <Class>0x00</Class>
+    <ClassString>Use Interface Descriptors</ClassString>
+    <SubClass>0x00</SubClass>
+    <Protocol>0x00</Protocol>
+  </EventProperty>
+  <EventProperty name="ManufacturerId">
+                            Kingston
+                        </EventProperty>
+  <EventProperty name="ProductId">
+                            DT2000
+                        </EventProperty>
+  <EventProperty name="SerialNumber">
+                            200916AF660185FD938EE936
+                        </EventProperty>
+  <EventProperty name="ConfigurationDescriptor">
+    <ConfigDescriptor index="0">
+      <InterfaceCount>1</InterfaceCount>
+      <Interface>
+        <Class>0x08</Class>
+        <ClassString>Mass Storage</ClassString>
+        <SubClass>0x06</SubClass>
+        <Protocol>0x50</Protocol>
+      </Interface>
+    </ConfigDescriptor>
+  </EventProperty>
+</Event>
+
+<Event name="USBDeviceAuthorized" time="6/19/2019 11:45:42 AM">
+  <EventProperty name="DeviceDescriptor">
+    <VendorId>0x2009</VendorId>
+    <ProductId>0x16AF</ProductId>
+    <Class>0x00</Class>
+    <ClassString>Use Interface Descriptors</ClassString>
+    <SubClass>0x00</SubClass>
+    <Protocol>0x00</Protocol>
+  </EventProperty>
+  <EventProperty name="ManufacturerId">
+                            Kingston
+                        </EventProperty>
+  <EventProperty name="ProductId">
+                            DT2000
+                        </EventProperty>
+  <EventProperty name="SerialNumber">
+                            200916AF660185FD938EE936
+                        </EventProperty>
+  <EventProperty name="ConfigurationDescriptor">
+    <ConfigDescriptor index="0">
+      <InterfaceCount>1</InterfaceCount>
+      <Interface>
+        <Class>0x08</Class>
+        <ClassString>Mass Storage</ClassString>
+        <SubClass>0x06</SubClass>
+        <Protocol>0x50</Protocol>
+      </Interface>
+    </ConfigDescriptor>
+  </EventProperty>
+  <EventProperty name="Reason">
+                            4
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Program Files (x86)\Honeywell\SMXDriver\SMXNotificationApp\SMXUsbAuthAdmin.exe
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+</Event>
+
+<Event name="NonSMXDiskBlocked" time="6/19/2019 11:45:42 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+</Event>
+
+<Event name="USBDeviceDisconnected" time="6/19/2019 11:46:01 AM">
+  <EventProperty name="DeviceDescriptor">
+    <VendorId>0x2009</VendorId>
+    <ProductId>0x16AF</ProductId>
+    <Class>0x00</Class>
+    <ClassString>Use Interface Descriptors</ClassString>
+    <SubClass>0x00</SubClass>
+    <Protocol>0x00</Protocol>
+  </EventProperty>
+  <EventProperty name="ManufacturerId">
+                            Kingston
+                        </EventProperty>
+  <EventProperty name="ProductId">
+                            DT2000
+                        </EventProperty>
+  <EventProperty name="SerialNumber">
+                            200916AF660185FD938EE936
+                        </EventProperty>
+  <EventProperty name="ConfigurationDescriptor">
+    <ConfigDescriptor index="0">
+      <InterfaceCount>1</InterfaceCount>
+      <Interface>
+        <Class>0x08</Class>
+        <ClassString>Mass Storage</ClassString>
+        <SubClass>0x06</SubClass>
+        <Protocol>0x50</Protocol>
+      </Interface>
+    </ConfigDescriptor>
+  </EventProperty>
+</Event>
+
+<Event name="USBDeviceConnected" time="6/20/2019 8:00:49 AM">
+  <EventProperty name="DeviceDescriptor">
+    <VendorId>0x2009</VendorId>
+    <ProductId>0x16AF</ProductId>
+    <Class>0x00</Class>
+    <ClassString>Use Interface Descriptors</ClassString>
+    <SubClass>0x00</SubClass>
+    <Protocol>0x00</Protocol>
+  </EventProperty>
+  <EventProperty name="ManufacturerId">
+                            Kingston
+                        </EventProperty>
+  <EventProperty name="ProductId">
+                            DT2000
+                        </EventProperty>
+  <EventProperty name="SerialNumber">
+                            200916AF660185FD938EE936
+                        </EventProperty>
+  <EventProperty name="ConfigurationDescriptor">
+    <ConfigDescriptor index="0">
+      <InterfaceCount>1</InterfaceCount>
+      <Interface>
+        <Class>0x08</Class>
+        <ClassString>Mass Storage</ClassString>
+        <SubClass>0x06</SubClass>
+        <Protocol>0x50</Protocol>
+      </Interface>
+    </ConfigDescriptor>
+  </EventProperty>
+</Event>
+
+<Event name="USBDeviceAuthorized" time="6/20/2019 8:01:07 AM">
+  <EventProperty name="DeviceDescriptor">
+    <VendorId>0x2009</VendorId>
+    <ProductId>0x16AF</ProductId>
+    <Class>0x00</Class>
+    <ClassString>Use Interface Descriptors</ClassString>
+    <SubClass>0x00</SubClass>
+    <Protocol>0x00</Protocol>
+  </EventProperty>
+  <EventProperty name="ManufacturerId">
+                            Kingston
+                        </EventProperty>
+  <EventProperty name="ProductId">
+                            DT2000
+                        </EventProperty>
+  <EventProperty name="SerialNumber">
+                            200916AF660185FD938EE936
+                        </EventProperty>
+  <EventProperty name="ConfigurationDescriptor">
+    <ConfigDescriptor index="0">
+      <InterfaceCount>1</InterfaceCount>
+      <Interface>
+        <Class>0x08</Class>
+        <ClassString>Mass Storage</ClassString>
+        <SubClass>0x06</SubClass>
+        <Protocol>0x50</Protocol>
+      </Interface>
+    </ConfigDescriptor>
+  </EventProperty>
+  <EventProperty name="Reason">
+                            4
+                        </EventProperty>
+  <EventProperty name="ProcessName">
+                            \Device\HarddiskVolume3\Program Files (x86)\Honeywell\SMXDriver\SMXNotificationApp\SMXUsbAuthAdmin.exe
+                        </EventProperty>
+  <EventProperty name="UserSID">
+                            BROWN1\Administrator
+                        </EventProperty>
+</Event>
+
+<Event name="SMXDiskConnected" time="6/20/2019 8:01:07 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+</Event>
+
+<Event name="ManifestValid" time="6/20/2019 8:01:07 AM">
+  <EventProperty name="DeviceName">
+                            Kingston DT2000 USB Device
+                        </EventProperty>
+  <EventProperty name="VolumeId">
+                            \\?\Volume{8dd1fa2f-8861-11e9-80e5-1418773eeb0c}\
+                        </EventProperty>
+  <EventProperty name="DeviceId">
+                            2726108358
+                        </EventProperty>
+  <EventProperty name="DeviceDatabaseId">
+                            46
+                        </EventProperty>
+  <EventProperty name="Message">
+                            AtixSessionId-256927
+                        </EventProperty>
+</Event>
+</SMXEventLog>
