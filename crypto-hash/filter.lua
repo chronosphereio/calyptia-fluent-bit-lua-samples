@@ -21,7 +21,7 @@ local md5 = digest_factory('md5')
 local sha1 = digest_factory('sha1')
 local sha256 = digest_factory('sha256')
 
-function process_record(tag, timestamp, record)
+function cb_filter(tag, timestamp, record)
   record.md5 = md5(record.log)
   record.sha1 = sha1(record.log)
   record.sha256 = sha256(record.log)

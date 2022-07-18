@@ -63,7 +63,7 @@ local function add_calculated_fields(tag, timestamp, record)
   table.insert(record.tag3, { key1 = 'value9', key2 = 'value10'})
 end
 
-function process_record(tag, timestamp, record)
+function cb_filter(tag, timestamp, record)
   base64_encode(tag, timestamp, record)
   parse_fields(tag, timestamp, record)
   add_calculated_fields(tag, timestamp, record)
