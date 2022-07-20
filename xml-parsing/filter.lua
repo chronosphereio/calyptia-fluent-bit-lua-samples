@@ -73,7 +73,7 @@ end
 
 local parser = create_parser('event')
 
-function process_record(tag, timestamp, record)
+function cb_filter(tag, timestamp, record)
   local result = parser:parse(record.log)
   if result then
     -- fully parsed record
